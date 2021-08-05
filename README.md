@@ -1,1 +1,1 @@
-https://cuonguyen2002.github.io/Shopee_clone/
+https://cuonguyen2002.github.io/ShopeeUI_clone_onepage/
